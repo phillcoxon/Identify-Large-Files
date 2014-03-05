@@ -10,3 +10,5 @@ Todo:
 2) ???
 
 3) Profit
+
+4) Awk appears to output different columns on Ubuntu vs Centos. Need to detect OS and adjust output. Works on Centos by default. 
